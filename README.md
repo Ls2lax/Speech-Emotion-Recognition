@@ -1,4 +1,4 @@
-# Speech Emotion Recognition using Librosa library and CNN
+## Speech Emotion Recognition using Librosa library and CNN
 In this project we build a model to recognize emotion from speech using the librosa and Convolution Neural Network(CNN) and RAVDESS Dataset. This will be able to recognize emotion from sound files. We will load the data, extract features from it, then split the dataset into training and testing sets. Then, we’ll initialize an CNN classifier and train the model. Finally, we’ll calculate the accuracy of our model.
 
 ### RAVDESS Dataset
